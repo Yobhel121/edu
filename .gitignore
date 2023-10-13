@@ -1,3 +1,2 @@
 
-*.class
-target/edu-1.0-SNAPSHOT-jar-with-dependencies.jar
+target/*
